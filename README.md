@@ -1,21 +1,47 @@
+# Hi, I'm Laysson Enderson 👋
 
-  
-  ## Laysson Enderson
-  
-  I am a software developer with experience in various programming languages such as Golang, PHP, and Delphi. I am currently focused on working with Golang and enjoy exploring new technologies. I am also venturing into Node.js. I am passionate about creating efficient and high-quality code and always looking for new challenges to improve my skills.
-   
-<div> 
-  <a href = "mailto:laysson.ens@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laysson-enderson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Senior Software Engineer based in Brazil, focused on building scalable backend systems with **Go**.
 
+I currently work at **Mercado Livre**, designing and evolving high-scale services with a strong focus on **microservices, reliability, observability, and code quality**.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Laysson-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Laysson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Laysson-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Laysson-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Laysson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laysson-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Laysson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-</div>
+Outside of work, I also explore product ideas and mobile development with **React Native**, building small side projects related to routine, productivity, and personal organization.
+
+---
+
+## About me
+
+- Backend engineer with solid experience in **Go**, **PHP**, and legacy systems modernization
+- Strong focus on **distributed systems**, **microservices**, and **cloud-based applications**
+- Experience with **AWS**, **MySQL**, **PostgreSQL**, **MongoDB**, and monitoring tools
+- Interested in clean architecture, performance, scalability, and developer experience
+- Currently exploring **React Native** through personal projects
+
+---
+
+## Tech Stack
+
+![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## What I’m working on
+
+- Building and improving backend services in **Go**
+- Designing reliable and maintainable microservices
+- Studying software architecture and system design
+- Creating side projects with **React Native**, including a simple routine/productivity app
+
+---
+
+## Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:laysson.ens@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/laysson-enderson)
+
+---
