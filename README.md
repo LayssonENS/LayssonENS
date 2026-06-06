@@ -30,12 +30,24 @@ Outside of work, I also explore product ideas and mobile development with **Reac
 
 ---
 
+## Selected project
+
+### Kontto
+
+[Website](https://kontto.com.br) · [Google Play](https://play.google.com/store/apps/details?id=com.finapp.app)
+
+**Kontto** is a personal finance app for Android built as a real indie product case: local-first, offline by design, with no account, no backend, and no telemetry. It combines **React Native**, **Expo**, and **SQLite** with practical finance workflows such as accounts, credit cards, budgets, recurring transactions, reports, backups, CSV import, receipt OCR, and Android bank notification capture.
+
+It is a good example of how I like to approach side projects: not just as code experiments, but as complete products with architecture, UX, privacy constraints, production releases, documentation, and long-term maintainability.
+
+---
+
 ## What I’m working on
 
 - Building and improving backend services in **Go**
 - Designing reliable and maintainable microservices
 - Studying software architecture and system design
-- Creating side projects with **React Native**, including a simple routine/productivity app
+- Creating side projects with **React Native**, including **Kontto**, a local-first personal finance app
 
 ---
 
