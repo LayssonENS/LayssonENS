@@ -36,7 +36,7 @@ Outside of work, I also explore product ideas and mobile development with **Reac
 
 [Website](https://kontto.com.br) · [Google Play](https://play.google.com/store/apps/details?id=com.finapp.app)
 
-**Kontto** is a personal finance app for Android built as a real indie product case: local-first, offline by design, with no account, no backend, and no telemetry. It combines **React Native**, **Expo**, and **SQLite** with practical finance workflows such as accounts, credit cards, budgets, recurring transactions, reports, backups, CSV import, receipt OCR, and Android bank notification capture.
+**Kontto** is an independent personal project shipped as a real Android product: local-first, offline by design, with no account, no backend, and no telemetry. It combines **React Native**, **Expo**, and **SQLite** with practical finance workflows such as accounts, credit cards, budgets, recurring transactions, reports, backups, CSV import, receipt OCR, and Android bank notification capture.
 
 It is a good example of how I like to approach side projects: not just as code experiments, but as complete products with architecture, UX, privacy constraints, production releases, documentation, and long-term maintainability.
 
